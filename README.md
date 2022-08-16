@@ -1,17 +1,17 @@
-# Capstone-Project
-**Supply Chain Analytics**
+### Capstone-Project
+##**Supply Chain Analytics**
 
-**PROBLEM STATEMENT**
+#**PROBLEM STATEMENT**
 
 The problem we are discussing here is about the instant noodles company which is experiencing inventory cost loss due to the inadequate supply management The management intends to maximise the amount of supply in every warehouse across the entire nation. The goal of this project is to create a model utilising past data that will establish the ideal weight of the product to be delivered to the warehouse on each occasion.
 
 
-**ABOUT DATASET**
+#**ABOUT DATASET**
 
 Our project dataset is a CSV file called Data-1.csv This file contains 250000 rows and 24 attributes.
 
 
-**APPROACH**
+#**APPROACH**
 
 1.UNDERSTANDING DATA- Python programming language will be used to conduct both visual and non-visual understanding of the data
 
@@ -24,6 +24,7 @@ Our project dataset is a CSV file called Data-1.csv This file contains 250000 ro
 5.DEPLOYMENT- Last step would be to document our project
 
 
-**MODEL ANLAYSIS**
+#**MODEL ANLAYSIS**
 
 The models are evaluated used accuracy score and RMSE values and chose the best model and find out the feature importance that affect the optimum weight
+
