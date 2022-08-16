@@ -8,3 +8,4 @@ The problem we are discussing here is about the instant noodles company which is
 **ABOUT DATASET**
 
 Our project dataset is a CSV file called Data-1.csv This file contains 250000 rows and 24 attributes.
+
