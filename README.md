@@ -9,3 +9,14 @@ The problem we are discussing here is about the instant noodles company which is
 
 Our project dataset is a CSV file called Data-1.csv This file contains 250000 rows and 24 attributes.
 
+**APPROACH**
+
+1.UNDERSTANDING DATA- Python programming language will be used to conduct both visual and non-visual understanding of the data
+
+2.DATA PREPARATION- In this step we will prepare the data for modelling. The cleaning, Pre-processing  of data will happen in this stage.
+
+3.MODELLING- Different regression models and tuning techniques are used until best fit model for our problem is obtained.
+
+4.EVALUATION-  At this step we will broadly look at all our models and are evaluated using accuracy score and RMSE values and chose the best model 
+
+5.DEPLOYMENT- Last step would be to document our project
